@@ -1,0 +1,14 @@
+.center{
+    border: 1px black;
+    margin: 20px;
+    color: #999;
+    background-color: aqua;
+   text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    height: 500px;
+    width: 500px;
+}
+.items{
+    padding: 10px;
+}

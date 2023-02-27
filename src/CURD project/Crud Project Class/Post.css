@@ -1,0 +1,23 @@
+.addNewPost{
+    display: flex;
+    justify-content: end;
+    margin-right: 150px;
+    padding: 10px;
+}
+
+table,th,tr,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.postListTable{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.mrgRight{
+    margin-right: 15px;
+}
+.mrfBtn{
+    margin-bottom: 15px;
+}
